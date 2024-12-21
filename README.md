@@ -36,7 +36,7 @@ adaptive-edge-computing-framework/
 
 ### Prerequisites
 
-- Python 3.10+
+- Python 3.10 - 3.11
 - Docker Desktop
 - PyTorch 2.1+
 
@@ -138,7 +138,7 @@ make experiment-[name]
 
 ## License
 
-[Your License]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
